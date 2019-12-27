@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.svg</file>
+        <file>images/95233.png</file>
+        <file>images/add-green-button.png</file>
+        <file>images/add-to-favorite.png</file>
+        <file>images/gear.png</file>
+    </qresource>
+</RCC>
